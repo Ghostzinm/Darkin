@@ -1,0 +1,22 @@
+.cabecalho {
+    height: 103px;
+}
+
+.pg2 {display: flex;
+height: 100vh;}
+
+.i {
+    width: 743px;
+    height: 782px;
+}
+
+.k{  
+    margin-left: 10px;
+margin-top: 190px;
+width: 815px;
+height: 304px;
+}
+
+.pg2 p {
+    width: 400px;
+}
